@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/bwhua/SDSGC-Randomizer/settings/pages/static/css/main.8d8a54ee.chunk.css",
-    "main.js": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/main.fc487de6.chunk.js",
-    "main.js.map": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/main.fc487de6.chunk.js.map",
-    "runtime-main.js": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/runtime-main.21c0c023.js",
-    "runtime-main.js.map": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/runtime-main.21c0c023.js.map",
-    "static/js/2.65677e1b.chunk.js": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/2.65677e1b.chunk.js",
-    "static/js/2.65677e1b.chunk.js.map": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/2.65677e1b.chunk.js.map",
-    "static/js/3.49474a96.chunk.js": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/3.49474a96.chunk.js",
-    "static/js/3.49474a96.chunk.js.map": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/3.49474a96.chunk.js.map",
-    "index.html": "/bwhua/SDSGC-Randomizer/settings/pages/index.html",
-    "static/css/main.8d8a54ee.chunk.css.map": "/bwhua/SDSGC-Randomizer/settings/pages/static/css/main.8d8a54ee.chunk.css.map",
-    "static/js/2.65677e1b.chunk.js.LICENSE.txt": "/bwhua/SDSGC-Randomizer/settings/pages/static/js/2.65677e1b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/bwhua/SDSGC-Randomizer/settings/pages/static/media/norse_border.3c79b8ee.png",
-    "static/media/celtic_knot.853891a9.png": "/bwhua/SDSGC-Randomizer/settings/pages/static/media/celtic_knot.853891a9.png",
-    "static/media/mysterious-07.8fd77038.jpg": "/bwhua/SDSGC-Randomizer/settings/pages/static/media/mysterious-07.8fd77038.jpg",
-    "static/media/odin.a06885e7.png": "/bwhua/SDSGC-Randomizer/settings/pages/static/media/odin.a06885e7.png"
+    "main.css": "/SDSGC-Randomizer/static/css/main.a2992d72.chunk.css",
+    "main.js": "/SDSGC-Randomizer/static/js/main.fc487de6.chunk.js",
+    "main.js.map": "/SDSGC-Randomizer/static/js/main.fc487de6.chunk.js.map",
+    "runtime-main.js": "/SDSGC-Randomizer/static/js/runtime-main.1fb5d89f.js",
+    "runtime-main.js.map": "/SDSGC-Randomizer/static/js/runtime-main.1fb5d89f.js.map",
+    "static/js/2.65677e1b.chunk.js": "/SDSGC-Randomizer/static/js/2.65677e1b.chunk.js",
+    "static/js/2.65677e1b.chunk.js.map": "/SDSGC-Randomizer/static/js/2.65677e1b.chunk.js.map",
+    "static/js/3.49474a96.chunk.js": "/SDSGC-Randomizer/static/js/3.49474a96.chunk.js",
+    "static/js/3.49474a96.chunk.js.map": "/SDSGC-Randomizer/static/js/3.49474a96.chunk.js.map",
+    "index.html": "/SDSGC-Randomizer/index.html",
+    "static/css/main.a2992d72.chunk.css.map": "/SDSGC-Randomizer/static/css/main.a2992d72.chunk.css.map",
+    "static/js/2.65677e1b.chunk.js.LICENSE.txt": "/SDSGC-Randomizer/static/js/2.65677e1b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SDSGC-Randomizer/static/media/norse_border.3c79b8ee.png",
+    "static/media/celtic_knot.853891a9.png": "/SDSGC-Randomizer/static/media/celtic_knot.853891a9.png",
+    "static/media/mysterious-07.8fd77038.jpg": "/SDSGC-Randomizer/static/media/mysterious-07.8fd77038.jpg",
+    "static/media/odin.a06885e7.png": "/SDSGC-Randomizer/static/media/odin.a06885e7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.21c0c023.js",
+    "static/js/runtime-main.1fb5d89f.js",
     "static/js/2.65677e1b.chunk.js",
-    "static/css/main.8d8a54ee.chunk.css",
+    "static/css/main.a2992d72.chunk.css",
     "static/js/main.fc487de6.chunk.js"
   ]
 }
