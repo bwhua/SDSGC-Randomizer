@@ -1148,6 +1148,46 @@
         "Image": "https://gcdatabase.com/images/characters/traitor_meliodas/ssrd_ult.png",
         "Effect": "Removes Buffs and Stances on all enemies. Decreases enemies' all stats by 5% for 2 turn(s) and inflict Cleave damage equal to 585% of Attack on all enemies."
       }
+    },
+    "Sweet and Scary Melascula": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/melascula/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Wanna try a Bite?",
+        "Image": "https://gcdatabase.com/images/characters/melascula/ssrg_passive.png",
+        "Effect": "Increases allies' Basic Stats by 20% of the hero's Lifesteal at the start of battle. Allies become immune to Ignite. (Up to 20%)"
+      },
+      "Unique 2": {
+        "Name": "Commandment of Faith",
+        "Image": "https://gcdatabase.com/images/characters/melascula/ssrg_commandment.webp",
+        "Effect": "At the end of every turn, applies 2 Ignite effects for 5 turn(s) on heroes who have not used skills in PVP. (Applies to both allies and enemies when entering battle)"
+      },
+      "Skill 1": {
+        "Name": "Take My Chocolate",
+        "Image": "https://gcdatabase.com/images/characters/melascula/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 250% of Attack on one enemy and depletes 2 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Lovely Atmosphere",
+        "Image": "https://gcdatabase.com/images/characters/melascula/ssrg_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "Creates a barrier around all allies equal to 150% of Attack for 2 turn(s).",
+        "Silver": "Creates a barrier around all allies equal to 225% of Attack for 2 turn(s).",
+        "Gold": "Creates a barrier around all allies equal to 375% of Attack for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Summon Soul",
+        "Image": "https://gcdatabase.com/images/characters/melascula/ssrg_ult.webp",
+        "Effect": "Inflicts damage equal to 560% of Attack on one enemy and Lifesteals 100% of the damage."
+      }
     }
   },
   "Fairy": {
@@ -2334,6 +2374,41 @@
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_200_3.png",
         "Effect": "Inflicts Sever damage equal to 630% of Attack on one enemy."
       }
+    },
+    "Tundra Hunter Skadi": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/skadi/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Cold Gaze",
+        "Image": "https://gcdatabase.com/images/characters/skadi/ssrr_passive.png",
+        "Effect": "Decreases all enemies's Attack and Defense by 8% and increases allies' skill damage dealt by 15% for each Debuff on the hero."
+      },
+      "Skill 1": {
+        "Name": "Hunting Beast",
+        "Image": "https://gcdatabase.com/images/characters/skadi/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Decreases the hero's Max HP by 2% 1 time for 3 turn(s) then inflicts damage equal to 250% of Attack on one enemy (Stacks 5 times).",
+        "Silver": "Decreases the hero's Max HP by 2% 2 times for 3 turn(s) then inflicts damage equal to 375% of Attack on one enemy (Stacks 5 times).",
+        "Gold": "Decreases the hero's Max HP by 2% 3 times for 3 turn(s) then inflicts damage equal to 625% of Attack on one enemy (Stacks 5 times)."
+      },
+      "Skill 2": {
+        "Name": "Icicle Dagger",
+        "Image": "https://gcdatabase.com/images/characters/skadi/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Removes Buffs from one enemy and inflicts damage equal to 220% of Attack.",
+        "Silver": "Removes Buffs from one enemy and inflicts damage equal to 300% of Attack.",
+        "Gold": "Cancels Buffs and Stances on one enemy and inflicts damage equal to 400% of Attack."
+      },
+      "Ultimate": {
+        "Name": "Glacial Beast",
+        "Image": "https://gcdatabase.com/images/characters/skadi/ssrr_ult.png",
+        "Effect": "Inflicts damage equal to 360% of Attack on all enemies and restores the HP of all allies by 30% of damage dealt."
+      }
     }
   },
   "Goddess": {
@@ -2948,10 +3023,45 @@
         "Image": "https://gcdatabase.com/images/characters/covenant_of_light_sariel/ssrg_ult.png",
         "Effect": "Inflicts Suppress damage equal to 300% of Attack on all enemies."
       }
+    },
+    "Celestial Ellate": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/ellatte/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Strong Belief",
+        "Image": "https://gcdatabase.com/images/characters/ellatte/ssrb_passive.png",
+        "Effect": "In Knighthood Boss Battle, increases all allies' Defense-related stats by 8% and decreases damage taken by 5% at the start of the allies' turn if allies on the battlefield have representatives from all three of the following attributes: Strength, HP and Speed. (Limit 5 times)."
+      },
+      "Skill 1": {
+        "Name": "Holy Strike",
+        "Image": "https://gcdatabase.com/images/characters/ellatte/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Blessing of Victory",
+        "Image": "https://gcdatabase.com/images/characters/ellatte/ssrb_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "Apply 1 Solidify on one ally. If there are Debuffs, they are removed and 1 additional Solidify effect is applied.",
+        "Silver": "Apply 1 Solidify on all allies. If there are Debuffs, they are removed and 1 additional Solidify effect is applied.",
+        "Gold": "Apply 1 Solidify on one ally. If there are Debuffs, they are removed and an additional Solidify effect is applied for every Debuff removed."
+      },
+      "Ultimate": {
+        "Name": "Dancing Ray",
+        "Image": "https://gcdatabase.com/images/characters/ellatte/ssrb_ult.webp",
+        "Effect": "Remove Debuffs from all allies. Grants Debuff Immunity and increases Defense-related stats by 100% for 4 turn(s)."
+      }
     }
   },
   "Human": {
-    "Beard of the Mountain Cat Alioni": {
+    "Beard of the Mountain Cat Allioni": {
       "Color": "Green",
       "Rarity": "R",
       "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_20.png",
@@ -6585,6 +6695,46 @@
         "Name": "Last Attack",
         "Image": "https://gcdatabase.com/images/characters/liz/ssrr_ult.webp",
         "Effect": "Inflicts Shatter damage equal to 630% of Attack on one enemy."
+      }
+    },
+    "Normal": {
+      "Color": "",
+      "Rarity": "",
+      "Image": "",
+      "Unique": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      },
+      "Skill 1": {
+        "Name": "",
+        "Image": "",
+        "Bronze Type": "",
+        "Silver Type": "",
+        "Gold Type": "",
+        "Bronze": "",
+        "Silver": "",
+        "Gold": ""
+      },
+      "Skill 2": {
+        "Name": "",
+        "Image": "",
+        "Bronze Type": "",
+        "Silver Type": "",
+        "Gold Type": "",
+        "Bronze": "",
+        "Silver": "",
+        "Gold": ""
+      },
+      "Ultimate": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      },
+      "Combined Move": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
       }
     }
   },

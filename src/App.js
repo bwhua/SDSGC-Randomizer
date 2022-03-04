@@ -3,7 +3,7 @@ import './App.css';
 import data from './data.json';
 import React, { useState } from 'react';
 import CharSelect from './components/CharSelect';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter, BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Battle from './components/Battle';
 
 function App() {
@@ -66,7 +66,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <HashRouter>
     <div className="App">
       <Header teams={teams} changeTeam={teams => updateTeams(teams)}/>
       <br /><br /><br />
@@ -76,7 +76,7 @@ function App() {
       </Routes>
       
     </div >
-    </Router>
+    </HashRouter>
   );
 }
 

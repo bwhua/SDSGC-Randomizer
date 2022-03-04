@@ -1,7 +1,7 @@
 {
   "name": "sdsgc-pvp-v2",
   "version": "0.1.0",
-  "homepage": "https://github.com/bwhua/SDSGC-Randomizer/settings/pages",
+  "homepage": "https://bwhua.github.io/SDSGC-Randomizer",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.5.0",
