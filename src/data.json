@@ -3128,6 +3128,46 @@
         "Image": "https://gcdatabase.com/images/characters/ellatte/ssrb_ult.webp",
         "Effect": "Remove Debuffs from all allies. Grants Debuff Immunity and increases Defense-related stats by 100% for 4 turn(s)."
       }
+    },
+    "Covenant of light Tarmiel": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/covenant_of_light_tarmiel/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Embrace of Ocean",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_tarmiel/ssrr_passive.png",
+        "Effect": "All allies' basic stats will increase by 6% every time a hero uses a Grace to restore HP. (Limit up to 5 times)"
+      },
+      "Unique 2": {
+        "Name": "Grace of Ocean",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_tarmiel/ssrr_grace.webp",
+        "Effect": "If the hero is attacked during the enemy's turn, immediately recovers 30% of damage taken. If taking damage twice or more skills of the same enemy in the same turn, restricts all skill effect, including Ultimate Moves, of that enemy for 2 turn(s). (Excludes Stance and Recovery skills)"
+      },
+      "Skill 1": {
+        "Name": "Piercing Sprout",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_tarmiel/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Flood damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Flood damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Flood damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Holy Light",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_tarmiel/ssrr_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "For 1 turn(s), increases Attack of all allies by 15%, applies a buff that decreases damage taken from all enemies by 5% for 1 turn after taking damage Repeatable up to 3 times.",
+        "Silver": "For 2 turn(s), increases Attack of all allies by 20%, applies a buff that decreases damage taken from all enemies by 7% for 1 turn after taking damage Repeatable up to 3 times.",
+        "Gold": "For 2 turn(s), increases Attack of all allies by 45%, applies a buff that decreases damage taken from all enemies by 10% for 1 turn after taking damage Repeatable up to 3 times."
+      },
+      "Ultimate": {
+        "Name": "Ocean",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_tarmiel/ssrr_ult.png",
+        "Effect": "Inflicts Detonate damage equal to 420% of Attack on all enemies."
+      }
     }
   },
   "Human": {
@@ -7757,6 +7797,41 @@
         "Name": "Frost Blast",
         "Image": "https://gcdatabase.com/images/characters/truthseeker_merlin/ssrg_ult.png",
         "Effect": "Decreases HP-related stats of all enemies by 30% for 2 turn(s) and inflicts damage equal to 400% of Attack on one enemy."
+      }
+    },
+    "The World Serpent Jormungandr": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/jormungandr/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Planned Hunt",
+        "Image": "https://gcdatabase.com/images/characters/jormungandr/ssrg_passive.png",
+        "Effect": "At the start of every turn in Demonic Beast Battle Eikthyrnir, applies an effect on all allies which increases all stats by 30% for 2 turns. If 3 allies each use skills once or more, the same effect is applied to all allies again. (Effect is removed from heroes who used skills after effect is applied, effect applies once per condition)"
+      },
+      "Skill 1": {
+        "Name": "Swift Rush",
+        "Image": "https://gcdatabase.com/images/characters/jormungandr/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 200% of Attack on one enemy and restores the HP of the lowest HP ally 80% of damage dealt.",
+        "Silver": "Inflicts damage equal to 250% of Attack on one enemy and restores the HP of all allies by 30% of damage dealt.",
+        "Gold": "Inflicts damage equal to 400% of Attack on one enemy and restores the HP of all allies by 40% of damage dealt."
+      },
+      "Skill 2": {
+        "Name": "Snake Whip",
+        "Image": "https://gcdatabase.com/images/characters/jormungandr/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Removes Buffs from one enemy and inflicts damage equal to 220% of Attack.",
+        "Silver": "Removes Buffs from one enemy and inflicts damage equal to 300% of Attack.",
+        "Gold": "Cancels Buffs and Stances on one enemy and inflicts damage equal to 400% of Attack."
+      },
+      "Ultimate": {
+        "Name": "Ground Detection",
+        "Image": "https://gcdatabase.com/images/characters/jormungandr/ssrg_ult.png",
+        "Effect": "Increases all allies' damage dealt by 7% for 2 turn(s) and inflicts damage equal to 630% of Attack on one enemy."
       }
     }
   }
