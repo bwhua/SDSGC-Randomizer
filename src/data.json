@@ -7833,6 +7833,83 @@
         "Image": "https://gcdatabase.com/images/characters/jormungandr/ssrg_ult.png",
         "Effect": "Increases all allies' damage dealt by 7% for 2 turn(s) and inflicts damage equal to 630% of Attack on one enemy."
       }
+    },
+    "Oni Shuna": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Collab": "That Time I Reincarnated as a Slime",
+      "Image": "https://gcdatabase.com/images/characters/shuna/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Multi-Talented Aide",
+        "Image": "https://gcdatabase.com/images/characters/shuna/ssrg_passive.png",
+        "Effect": "Decreases Unknown Race allies' damage taken by 20%."
+      },
+      "Skill 1": {
+        "Name": "Confusion",
+        "Image": "https://gcdatabase.com/images/characters/shuna/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 200% of Attack on one enemy.",
+        "Silver": "Cancels Stances on one enemy and inflicts damage equal to 200% of Attack, then Stuns for 1 turn(s).",
+        "Gold": "Cancels Stances on one enemy and inflicts damage equal to 250% of Attack, then Stuns for 2 turn(s)."
+      },
+      "Skill 2": {
+        "Name": "Holy Bell",
+        "Image": "https://gcdatabase.com/images/characters/shuna/ssrg_2.png",
+        "Bronze Type": "Heal",
+        "Silver Type": "Heal",
+        "Gold Type": "Heal",
+        "Bronze": "Heals HP of all allies equal to 130% of Attack. Rejuvenates for 1 turn(s).",
+        "Silver": "Heals HP of all allies equal to 195% of Attack. Rejuvenates for 3 turn(s).",
+        "Gold": "Heals HP of all allies equal to 325% of Attack. Rejuvenates for 1 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Alignment Field",
+        "Image": "https://gcdatabase.com/images/characters/shuna/ssrg_ult.png",
+        "Effect": "Inflicts damage equal to 350% of Attack on all enemies and depletes 3 Ultimate Move Gauge orb(s)."
+      }
+    },
+    "Demon Lord Rimuru": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Collab":"That Time I Reincarnated as a Slime",
+      "Image": "https://gcdatabase.com/images/characters/demonlord_rimuru/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Silent Wrath",
+        "Image": "https://gcdatabase.com/images/characters/demonlord_rimuru/ssrg_passive.png",
+        "Effect": "At the start of the allies' turn, increases the hero's basic stats by 8%, removes 1 Buff(s) from all enemies, then increases the hero's own basic stats by 8% for each removed Buff. If increased to max, increases the hero's Pierce Rate once by 130% for 3 turn(s). (Basic Stats increase effect stacks up to 5 times)"
+      },
+      "Skill 1": {
+        "Name": "Swift Slash",
+        "Image": "https://gcdatabase.com/images/characters/demonlord_rimuru/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Pierce damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Pierce damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Beelzebub",
+        "Image": "https://gcdatabase.com/images/characters/demonlord_rimuru/ssrg_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 110% of Attack on all enemies. Infects for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 180% of Attack on all enemies. Infects for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 280% of Attack on all enemies. Infects for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Megiddo",
+        "Image": "https://gcdatabase.com/images/characters/demonlord_rimuru/ssrg_ult.png",
+        "Effect": "Inflicts damage equal to 300% of Attack on all enemies. Gains Abyss effect and takes 50% less damage for 2 turn(s)."
+      },
+      "Combined Move": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      }
     }
   }
 }
