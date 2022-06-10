@@ -18,14 +18,14 @@ function App() {
 
   const [teams, setTeams] = useState({
     team1: {
-      'color': ['Red', 'Blue', 'Green', 'Darkness'],
+      'color': ['Red', 'Blue', 'Green', 'Darkness', 'Light'],
       'race': ['Human', 'Giant', 'Fairy', 'Demon', 'Goddess', 'Unknown'],
       'grade': ['R', 'SR', 'SSR'],
       'collab': true,
       'festival': true,
     },
     team2: {
-      'color': ['Red', 'Blue', 'Green', 'Darkness'],
+      'color': ['Red', 'Blue', 'Green', 'Darkness', 'Light'],
       'race': ['Human', 'Giant', 'Fairy', 'Demon', 'Goddess', 'Unknown'],
       'grade': ['R', 'SR', 'SSR'],
       'collab': true,

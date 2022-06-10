@@ -30,8 +30,8 @@ const Header = ({teams, changeTeam}) => {
       teams['team2'] = JSON.parse(JSON.stringify(teams['team1']))
       if (document.getElementById('same_constraints').checked === true){
         let attributes = [['race', 'Human'], ['race', 'Giant'], ['race', 'Fairy'], ['race', 'Demon'], ['race', 'Goddess'], ['race', 'Unknown'],
-                          ['color', 'Red'], ['color', 'Green'], ['color', 'Blue'], ['color', 'Darkness'],
-                          ['grade', 'R'], ['grade', 'SR'], ['grade', 'SSR']]
+          ['color', 'Red'], ['color', 'Green'], ['color', 'Blue'], ['color', 'Darkness'], ['color', 'Light'],
+          ['grade', 'R'], ['grade', 'SR'], ['grade', 'SSR']]
         for(let i of attributes){
           document.getElementById(['team2', i[0], i[1]].join('-')).classList = document.getElementById(['team1', i[0], i[1]].join('-')).classList
         }
@@ -103,6 +103,7 @@ const Header = ({teams, changeTeam}) => {
                     <li className="list-border-active" id='team1-color-Blue' onClick={changeAttribute} style={{borderColor: "red"}}>Blue</li>
                     <li className="list-border-active" id='team1-color-Green' onClick={changeAttribute} style={{borderColor: "red"}}>Green</li>
                     <li className="list-border-active" id='team1-color-Darkness' onClick={changeAttribute} style={{ borderColor: "red" }}>Darkness</li>
+                    <li className="list-border-active" id='team1-color-Light' onClick={changeAttribute} style={{ borderColor: "red" }}>Light</li>
                   </ul>
                 </div>
                 <div className="team-race">
@@ -147,7 +148,8 @@ const Header = ({teams, changeTeam}) => {
                     <li className="list-border-active" id='team2-color-Red' onClick={changeAttribute} style={{borderColor: "blue"}}>Red</li>
                     <li className="list-border-active" id='team2-color-Blue' onClick={changeAttribute} style={{borderColor: "blue"}}>Blue</li>
                     <li className="list-border-active" id='team2-color-Green' onClick={changeAttribute} style={{ borderColor: "blue" }}>Green</li>
-                    <li className="list-border-active" id='team2-color-Darkness' onClick={changeAttribute} style={{borderColor: "blue"}}>Darkness</li>
+                    <li className="list-border-active" id='team2-color-Darkness' onClick={changeAttribute} style={{ borderColor: "blue" }}>Darkness</li>
+                    <li className="list-border-active" id='team2-color-Light' onClick={changeAttribute} style={{borderColor: "blue"}}>Light</li>
                   </ul>
                 </div>
                 <div className="team-race">
