@@ -739,7 +739,7 @@
       "Color": "Red",
       "Rarity": "SSR",
       "Festival": true,
-      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_116.png",
+      "Image": "https://64.media.tumblr.com/22322921d53d0207343b92b49a1feda8/9b0e85c9c0222343-6d/s540x810/310b6dfc15051e720266b22d8948916c6e90fa8a.png",
       "Unique": {
         "Name": "Rebate",
         "Image": "https://rerollcdn.com/SDSGC/skills/passive_116_4.png",
@@ -1187,6 +1187,46 @@
         "Name": "Summon Soul",
         "Image": "https://gcdatabase.com/images/characters/melascula/ssrg_ult.webp",
         "Effect": "Inflicts damage equal to 560% of Attack on one enemy and Lifesteals 100% of the damage."
+      }
+    },
+    "Tomorrow's Champion Meliodas": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/meliodas/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Champion's Dignity",
+        "Image": "https://gcdatabase.com/images/characters/meliodas/ssrb_passive.png",
+        "Effect": "Increases basic stats of allies with 2 or less skills by 20% for 1 turn at the start of the allies' turn."
+      },
+      "Skill 1": {
+        "Name": "Boot Slash",
+        "Image": "https://gcdatabase.com/images/characters/meliodas/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Sever damage equal to 160% of Attack on one enemy.",
+        "Silver": "Inflicts Sever damage equal to 270% of Attack on one enemy.",
+        "Gold": "Inflicts Sever damage equal to 450% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Dark Condensation",
+        "Image": "https://gcdatabase.com/images/characters/meliodas/ssrb_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 140% of Attack on all enemies.",
+        "Silver": "Removes Buffs from all enemies and inflicts damage equal to 140% of Attack.",
+        "Gold": "Cancels Buffs and Stances on all enemies and inflicts damage equal to 210% of Attack."
+      },
+      "Ultimate": {
+        "Name": "1000 Divine Cuts",
+        "Image": "https://gcdatabase.com/images/characters/meliodas/ssrb_ult.webp",
+        "Effect": "Cancels Buffs and Stances on one enemy, inflicts damage equal to 490% of Attack, then Stuns for 1 turn(s)."
+      },
+      "Combined Move": {
+        "Name": "Metal Crash",
+        "Image": "https://gcdatabase.com/images/characters/meliodas/ssrb_ult.webp",
+        "Effect": "Cancels Buffs and Stances on one enemy, inflicts damage equal to 560% of Attack, then Stuns for 1 turn(s)."
       }
     }
   },
@@ -1846,7 +1886,7 @@
     "Protector King Harlequin": {
       "Color": "Blue",
       "Rarity": "SSR",
-      "Image": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_portrait.png",
+      "Image": "https://64.media.tumblr.com/284a43bdd8f3962f33c310dce30fb87c/9056369542f17351-e9/s540x810/6b94771dc9f9451834e4a75f8c43d7f9c7de3bb7.png",
       "Unique": {
         "Name": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_passive.png",
         "Image": "Pollen Garden",
@@ -3172,7 +3212,7 @@
     "Eternal Rebirth Elizabeth": {
       "Color": "Light",
       "Rarity": "SSR",
-      "Image": "https://gcdatabase.com/images/characters/elizabeth_of_Eternal%20Rebirth/ssrl_portrait.png",
+      "Image": "https://64.media.tumblr.com/eabc1ea51fd84e9eb41ebcd0e97fefb9/9b0e85c9c0222343-a5/s540x810/ebfa248c6931fc5137ef04fc2d910a5e7736facb.png",
       "Unique": {
         "Name": "Eternal Reincarnation",
         "Image": "https://gcdatabase.com/images/characters/elizabeth_of_Eternal%20Rebirth/ssrl_passive.png",
@@ -3180,7 +3220,6 @@
       },
       "Skill 1": {
         "Name": "Spiral Light",
-        "Image": "https://gcdatabase.com/images/characters/elizabeth_of_Eternal%20Rebirth/ssrl_1.png",
         "Bronze Type": "Attack",
         "Silver Type": "Attack",
         "Gold Type": "Attack",
@@ -4325,7 +4364,7 @@
       "Color": "Blue",
       "Rarity": "SSR",
       "Festival": true,
-      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_157.png",
+      "Image": "https://64.media.tumblr.com/fe77d6f3522316cdd58bb853f8cf1ca5/9b0e85c9c0222343-29/s540x810/33572ddabb23b7eb85718440aee6d7900c4063a5.png",
       "Unique": {
         "Name": "The One",
         "Image": "https://rerollcdn.com/SDSGC/skills/passive_157_4.png",
@@ -6876,6 +6915,41 @@
         "Image": "https://gcdatabase.com/images/characters/ironblood_mono/ssrg_ult.png",
         "Effect": "Inflicts Secret Technique damage equal to 300% of Attack on all enemies and deals damage with attribute advantage regardless of attribute."
       }
+    },
+    "Princess Brunhildr": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/brunhild/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Authority of the Princess",
+        "Image": "https://gcdatabase.com/images/characters/brunhild/ssrr_passive.png",
+        "Effect": "Increases the hero's basic stats by 12% for every hero with the Ragnarok characteristic on the battlefield. Decreases all enemies' Attack-related stats and Defense-related stats by 15% for 1 turn at the start of the allies's turn."
+      },
+      "Skill 1": {
+        "Name": "Isle Flowers",
+        "Image": "https://gcdatabase.com/images/characters/brunhild/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Charge damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Charge damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Charge damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Stab Rush",
+        "Image": "https://gcdatabase.com/images/characters/brunhild/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Weak Point damage equal to 90% of Attack on all enemies.",
+        "Silver": "Inflicts Weak Point damage equal to 120% of Attack on all enemies.",
+        "Gold": "Inflicts Weak Point damage equal to 185% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Valkrie Strike",
+        "Image": "https://gcdatabase.com/images/characters/brunhild/ssrr_ult.png",
+        "Effect": "Inflicts damage equal to 490% of Attack on one enemy and restores the HP of all allies by 30% of damage dealt."
+      }
     }
   },
   "Unknown": {
@@ -7366,7 +7440,7 @@
       "Color": "Green",
       "Rarity": "SSR",
       "Festival": true,
-      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_169.png",
+      "Image": "https://64.media.tumblr.com/90bb1f2d003e3d3dbfa5bc21f82d3918/34db214bebfd8784-42/s500x750/b42bcb07624fe3c0f25e17b3cbedf07e94ada164.png",
       "Unique": {
         "Name": "Bargaining With the Gods",
         "Image": "https://rerollcdn.com/SDSGC/skills/passive_169_4.png",
@@ -7939,6 +8013,41 @@
         "Name": "",
         "Image": "",
         "Effect": ""
+      }
+    },
+    "Sun God Freyr": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/freyr/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Divine Flames",
+        "Image": "https://gcdatabase.com/images/characters/freyr/ssrr_passive.png",
+        "Effect": "Allies become immune to Ignite. Applies Blessing of Light, which increases all of the hero's stats by 15% for 2 turns at the start of the allies' turn, then applies the same effect again every 2 turns. Increases all stats of allies by 5% for 5 turns whenver Blessing of Light is removed."
+      },
+      "Skill 1": {
+        "Name": "Blitz Charge",
+        "Image": "https://gcdatabase.com/images/characters/freyr/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 240% of Attack on one enemy.",
+        "Silver": "Cancels Stances on one enemy and inflicts damage equal to 300% of Attack.",
+        "Gold": "Cancels Stances on one enemy and inflicts damage equal to 500% of Attack."
+      },
+      "Skill 2": {
+        "Name": "Raining Blade",
+        "Image": "https://gcdatabase.com/images/characters/freyr/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 500% of Attack on one enemy."
+      },
+      "Ultimate": {
+        "Name": "Sword of the Sun",
+        "Image": "https://gcdatabase.com/images/characters/freyr/ssrr_ult.png",
+        "Effect": "Inflicts damage equal to 720% of Attack on one enemy, then inflicts additional Death damage."
       }
     }
   }
