@@ -2519,6 +2519,41 @@
         "Image": "https://gcdatabase.com/images/characters/queen_diane/ssrr_ult.png",
         "Effect": "Inflicts Quell damage equal to 380% of Attack on all enemies and restores the HP of all allies by 3% of damage dealt."
       }
+    },
+    "Beach Guardian Diane": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/blessing_of_earth_diane/ssrr_portrait.png",
+      "Unique": {
+        "Name": "We are all Friends",
+        "Image": "https://gcdatabase.com/images/characters/blessing_of_earth_diane/ssrr_passive.png",
+        "Effect": "If all allies participating in Death Match are of different races, rank up all skills at the start of allies' turn and increases all allies' Basic Stats by 30% and grant Debuff Immunity. (Limit 1 time, heores with additional race counts as 2 races.)"
+      },
+      "Skill 1": {
+        "Name": "Play in the Sand",
+        "Image": "https://gcdatabase.com/images/characters/blessing_of_earth_diane/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Amplify damage equal to 180% of Attack on one enemy.",
+        "Silver": "Inflicts Amplify damage equal to 270% of Attack on one enemy.",
+        "Gold": "Inflicts Amplify damage equal to 450% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Cute Water Blaster",
+        "Image": "https://gcdatabase.com/images/characters/blessing_of_earth_diane/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Power Strike damage equal to 110% of Attack on all enemies.",
+        "Silver": "Inflicts Power Strike damage equal to 165% of Attack on all enemies.",
+        "Gold": "Inflicts Power Strike damage equal to 275% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Giantize",
+        "Image": "https://gcdatabase.com/images/characters/blessing_of_earth_diane/ssrr_ult.png",
+        "Effect": "Increases all allies' damage dealt by 7% for 2 turn(s). Inflicts damage equal to 500% of Attack on all enemies."
+      }
     }
   },
   "Goddess": {
