@@ -9,7 +9,7 @@
 
 A fan-made PVP Randomizer for the online game Seven Deadly Sins: Grand Cross
 
-##GH Site Link
+## GH Site Link
 https://bwhua.github.io/SDSGC-Randomizer/#/
 
 ## Disclaimer
