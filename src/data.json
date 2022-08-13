@@ -739,7 +739,7 @@
       "Color": "Red",
       "Rarity": "SSR",
       "Festival": true,
-      "Image": "https://64.media.tumblr.com/22322921d53d0207343b92b49a1feda8/9b0e85c9c0222343-6d/s540x810/310b6dfc15051e720266b22d8948916c6e90fa8a.png",
+      "Image": "https://gcdatabase.com/images/characters/lostvayne_meliodas/ssrr_portrait.webp",
       "Unique": {
         "Name": "Rebate",
         "Image": "https://rerollcdn.com/SDSGC/skills/passive_116_4.png",
@@ -1229,7 +1229,7 @@
         "Effect": "Cancels Buffs and Stances on one enemy, inflicts damage equal to 560% of Attack, then Stuns for 1 turn(s)."
       }
     },
-    "Berserk Estarossa": {
+    "Twisted Darkness Estarossa": {
       "Color": "Blue",
       "Rarity": "SSR",
       "Image": "https://gcdatabase.com/images/characters/berserk_estarossa/ssrb_portrait.png",
@@ -1921,7 +1921,7 @@
     "Protector King Harlequin": {
       "Color": "Blue",
       "Rarity": "SSR",
-      "Image": "https://64.media.tumblr.com/284a43bdd8f3962f33c310dce30fb87c/9056369542f17351-e9/s540x810/6b94771dc9f9451834e4a75f8c43d7f9c7de3bb7.png",
+      "Image": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_portrait.png",
       "Unique": {
         "Name": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_passive.png",
         "Image": "Pollen Garden",
@@ -3282,7 +3282,7 @@
     "Eternal Rebirth Elizabeth": {
       "Color": "Light",
       "Rarity": "SSR",
-      "Image": "https://64.media.tumblr.com/eabc1ea51fd84e9eb41ebcd0e97fefb9/9b0e85c9c0222343-a5/s540x810/ebfa248c6931fc5137ef04fc2d910a5e7736facb.png",
+      "Image": "https://gcdatabase.com/images/characters/elizabeth_of_reincarnation/ssrl_portrait.png",
       "Unique": {
         "Name": "Eternal Reincarnation",
         "Image": "https://gcdatabase.com/images/characters/elizabeth_of_Eternal%20Rebirth/ssrl_passive.png",
@@ -4434,13 +4434,13 @@
       "Color": "Blue",
       "Rarity": "SSR",
       "Festival": true,
-      "Image": "https://64.media.tumblr.com/fe77d6f3522316cdd58bb853f8cf1ca5/9b0e85c9c0222343-29/s540x810/33572ddabb23b7eb85718440aee6d7900c4063a5.png",
+      "Image": "https://gcdatabase.com/images/characters/theone_escanor/ssrb_portrait.webp",
       "Unique": {
         "Name": "The One",
         "Image": "https://rerollcdn.com/SDSGC/skills/passive_157_4.png",
         "Effect": "The hero gains a Buff which increases all stats by 6% at the start of an allied turn. When there are 3 stacks of this effect, remove Debuffs and becomes immune to Debuffs for 1 turn. After that, removes a stack until only 1 stack is left, then stacks the buff accordingly again."
       },
-      "Skill 1":{
+      "Skill 1": {
         "Name": "Super Slash",
         "Image": "https://rerollcdn.com/SDSGC/skills/skill_157_1.png",
         "Bronze Type": "Attack",
@@ -4450,7 +4450,7 @@
         "Silver": "Inflicts Influx damage equal to 300% of Attack on one enemy.",
         "Gold": "Inflicts Influx damage equal to 500% of Attack on one enemy."
       },
-      "Skill 2":{
+      "Skill 2": {
         "Name": "Supernova",
         "Image": "https://rerollcdn.com/SDSGC/skills/skill_157_2.png",
         "Bronze Type": "Attack",
@@ -4460,7 +4460,7 @@
         "Silver": "Inflicts damage equal to 360% of Attack on one enemy.",
         "Gold": "Inflicts damage equal to 600% of Attack on one enemy."
       },
-      "Ultimate":{
+      "Ultimate": {
         "Name": "Divine Sword Escanor",
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_157_3.png",
         "Effect": "Inflicts damage equal to 720% of Attack on one enemy, then inflicts additional Death damage."
@@ -7510,7 +7510,7 @@
       "Color": "Green",
       "Rarity": "SSR",
       "Festival": true,
-      "Image": "https://64.media.tumblr.com/90bb1f2d003e3d3dbfa5bc21f82d3918/34db214bebfd8784-42/s500x750/b42bcb07624fe3c0f25e17b3cbedf07e94ada164.png",
+      "Image": "https://gcdatabase.com/images/characters/belialuin_merlin/ssrg_portrait.png",
       "Unique": {
         "Name": "Bargaining With the Gods",
         "Image": "https://rerollcdn.com/SDSGC/skills/passive_169_4.png",

@@ -9,20 +9,23 @@
 
 A fan-made PVP Randomizer for the online game Seven Deadly Sins: Grand Cross
 
+##GH Site Link
+https://bwhua.github.io/SDSGC-Randomizer/#/
+
 ## Disclaimer
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
 ## Latest Character Added: 
-### Berserk Estarossa
+### Twisted Darkness Estarossa
 
 ## FAQ
 - What if a character isn't showing up?
   - There are two possibilities:
-    - The character was added after after the ```latest character```.
+    - The character was added after the ```latest character```.
       - Please Go to [issues](https://github.com/bwhua/sdsgc-pvp-randomizer/issues) and create an issue ```Missing Character: [Character] ``` if one is not already created and I will add it when I get the chance
-    - The character was added after before the ```latest character```.
+    - The character was added before or is the ```latest character```.
       - Try clearing your browsers cache to see if that is an issue.
-        - If not, I simply forgot. Follor the steps in creating an issue. 
+        - If not, I simply forgot. Follow the steps in creating an issue. 
       
 [contributors-shield]: https://img.shields.io/github/contributors/bwhua/sdsgc-pvp-randomizer.svg?style=flat-square
 [contributors-url]: https://github.com/bwhua/sdsgc-pvp-randomizer/graphs/contributors

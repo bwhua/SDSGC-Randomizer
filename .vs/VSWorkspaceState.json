@@ -3,8 +3,8 @@
     "",
     "\\public",
     "\\src",
-    "\\src\\components",
-    "\\src\\images"
+    "\\src\\components"
   ],
+  "SelectedNode": "\\src\\data.json",
   "PreviewInSolutionExplorer": false
 }
