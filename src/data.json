@@ -1263,6 +1263,41 @@
         "Image": "https://gcdatabase.com/images/characters/berserk_estarossa/ssrb_ult.png",
         "Effect": "Decreases all enemies' Attack by 20% for 3 turn(s) and inflicts Resonance damage equal to 380% of Attack on all enemies."
       }
+    },
+    "Ominous Nebula Zeldris": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/prince_of_darkness_zeldris/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Dark Whirlpool",
+        "Image": "https://gcdatabase.com/images/characters/prince_of_darkness_zeldris/ssrb_passive.png",
+        "Effect": "For every applicable ally on the battlefield in PVP, increases the applicable ally's Attack-related stats by 4% and decreases all enemies' Attack by 6%. ※ Specific ally: Demon or hero with a Commandment"
+      },
+      "Skill 1": {
+        "Name": "Absorb Slash",
+        "Image": "https://gcdatabase.com/images/characters/prince_of_darkness_zeldris/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pulverize damage equal to 180% of Attack on one enemy. When the hero has 4 or more Ultimate Move Gauge, reduces the enemy's Ultimate Move Gauge by 1 orb.",
+        "Silver": "Inflicts Pulverize damage equal to 270% of Attack on one enemy. When the hero has 4 or more Ultimate Move Gauge, reduces the enemy's Ultimate Move Gauge by 1 orb.",
+        "Gold": "Inflicts Pulverize damage equal to 450% of Attack on one enemy. When the hero has 4 or more Ultimate Move Gauge, reduces the enemy's Ultimate Move Gauge by 1 orb."
+      },
+      "Skill 2": {
+        "Name": "Chaos Blaze",
+        "Image": "https://gcdatabase.com/images/characters/prince_of_darkness_zeldris/ssrb_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 110% of Attack on all enemies. Infects for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 180% of Attack on all enemies. Infects for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 280% of Attack on all enemies. Infects for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Ominous Nebula",
+        "Image": "https://gcdatabase.com/images/characters/prince_of_darkness_zeldris/ssrb_ult.png",
+        "Effect": "Inflicts Weak Point damage equal to 210% of Attack on all enemies."
+      }
     }
   },
   "Fairy": {
