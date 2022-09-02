@@ -7090,6 +7090,41 @@
         "Image": "https://gcdatabase.com/images/characters/thonar/ssrr_ult.png",
         "Effect": "Inflicts Weak Point damage equal to 385% of Attack on one enemy."
       }
+    },
+    "Re:Zero Reinhard": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/reinhard/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Knight's Passion",
+        "Image": "https://gcdatabase.com/images/characters/reinhard/ssrr_passive.png",
+        "Effect": "At the start of allies' turn for 1 turn, randomly grants 1 of the following effects: increases the hero's damage by 50%, increases all stats by 25%, Evades, Debuff Immunity or Undying."
+      },
+      "Skill 1": {
+        "Name": "Body Handling",
+        "Image": "https://gcdatabase.com/images/characters/reinhard/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Flood damage equal to 12% of Max HP on one enemy.",
+        "Silver": "Inflicts Flood damage equal to 18% of Max HP on one enemy.",
+        "Gold": "Inflicts Flood damage equal to 30% of Max HP on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Swords Dance of Knight",
+        "Image": "https://gcdatabase.com/images/characters/reinhard/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Sever damage equal to 14% of Max HP on one enemy.",
+        "Silver": "Inflicts Sever damage equal to 21% of Max HP on one enemy.",
+        "Gold": "Inflicts Sever damage equal to 35% of Max HP on one enemy."
+      },
+      "Ultimate": {
+        "Name": "Blessing of Sword Saint",
+        "Image": "https://gcdatabase.com/images/characters/reinhard/ssrr_ult.png",
+        "Effect": "Exclude the buff granted by Unique, grant another 1 of the following effects: increases the hero's damage by 50%, increases all stats by 25%, Evades, Debuff Immunity or Undying, inflicts damage equal to 20% of Max HP on all enemies."
+      }
     }
   },
   "Unknown": {
@@ -8188,6 +8223,37 @@
         "Name": "Divine Flames",
         "Image": "https://gcdatabase.com/images/characters/freyr/ssrr_passive.png",
         "Effect": "Allies become immune to Ignite. Applies Blessing of Light, which increases all of the hero's stats by 15% for 2 turns at the start of the allies' turn, then applies the same effect again every 2 turns. Increases all stats of allies by 5% for 5 turns whenver Blessing of Light is removed."
+      }
+    },
+    "Re: Zero Echidna": {
+      "Color": "Green",
+      "Image": "https://gcdatabase.com/images/characters/echidna/ssrg_portrait.png",
+      "Rarity": "SSR",
+      "Skill 1": {
+        "Name": "Simple magic",
+        "Image": "https://gcdatabase.com/images/characters/echidna/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Sever damage equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts Sever damage equal to 180% of Attack on all enemies.",
+        "Gold": "Inflicts Sever damage equal to 300% of Attack on all enemies."
+      },
+      "Skill 2": {
+        "Name": "Interesting things",
+        "Image": "https://gcdatabase.com/images/characters/echidna/ssrg_2.png",
+        "Rarity": "SSR",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 110% of Attack on all enemies. Infects for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 180% of Attack on all enemies. Infects for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 280% of Attack on all enemies. Infects for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "I'm a Bad Witch",
+        "Image": "https://gcdatabase.com/images/characters/echidna/ssrg_ult.png",
+        "Effect": "Increases all allies' basic stats by 20%, Unknown race allies' damage dealt by 35% for 2 turn(s), inflicts damage equal to 400% of Attack on all enemies."
       }
     }
   }

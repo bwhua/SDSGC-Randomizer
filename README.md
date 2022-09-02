@@ -15,8 +15,9 @@ https://bwhua.github.io/SDSGC-Randomizer/#/
 ## Disclaimer
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
-## Latest Character Added: 
-### Hidden Savior Thonar
+## Latest Characters Added: 
+### Re: Zero Reinhard
+### Re: Zero Echidna
 
 ## FAQ
 - What if a character isn't showing up?
