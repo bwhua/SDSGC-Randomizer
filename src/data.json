@@ -7055,6 +7055,41 @@
         "Image": "https://gcdatabase.com/images/characters/brunhild/ssrr_ult.png",
         "Effect": "Inflicts damage equal to 490% of Attack on one enemy and restores the HP of all allies by 30% of damage dealt."
       }
+    },
+    "Hidden Savior Thonar": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/thonar/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Hands of Salvation",
+        "Image": "https://gcdatabase.com/images/characters/thonar/ssrr_passive.png",
+        "Effect": "In Skoll & Hati Demonic Beast Battle, increases the hero's damage dealt using their Ultimate Move by 200% and increases allies' damage dealt using single-target attacks by 30%. Increases allies' Attack-related stats by 40% for 3 turns every 3 times they inflict damage on enemies."
+      },
+      "Skill 1": {
+        "Name": "Falling Tornado",
+        "Image": "https://gcdatabase.com/images/characters/thonar/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 220% of Attack on one enemy.",
+        "Silver": "Removes Stances from one enemy. Inflicts damage equal to 220% of Attack, then disables Stance Skills for 1 turn(s).",
+        "Gold": "Removes Stances from one enemy. Inflicts damage equal to 360% of Attack, then disables Stance Skills for 2 turn(s)."
+      },
+      "Skill 2": {
+        "Name": "Chain Fists",
+        "Image": "https://gcdatabase.com/images/characters/thonar/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Ultimate": {
+        "Name": "Realization of Justice",
+        "Image": "https://gcdatabase.com/images/characters/thonar/ssrr_ult.png",
+        "Effect": "Inflicts Weak Point damage equal to 385% of Attack on one enemy."
+      }
     }
   },
   "Unknown": {

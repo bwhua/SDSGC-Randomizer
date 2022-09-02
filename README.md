@@ -16,7 +16,7 @@ https://bwhua.github.io/SDSGC-Randomizer/#/
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
 ## Latest Character Added: 
-### Ominous Nebula Zeldris
+### Hidden Savior Thonar
 
 ## FAQ
 - What if a character isn't showing up?
