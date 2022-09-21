@@ -1298,6 +1298,41 @@
         "Image": "https://gcdatabase.com/images/characters/prince_of_darkness_zeldris/ssrb_ult.png",
         "Effect": "Inflicts Weak Point damage equal to 210% of Attack on all enemies."
       }
+    },
+    "Original Fragment Chandler": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/demon_chandler/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Original Power",
+        "Image": "https://gcdatabase.com/images/characters/demon_chandler/ssrg_passive.png",
+        "Effect": "If all allies participating in battle are applicable allies, increases all allies' Penetration by 40%, and when applicalbe allies attack the enemy, increases damage by 10% up to 30% for every Debuff on the enemy. Applicable Ally: Demons, <Commandment>"
+      },
+      "Skill 1": {
+        "Name": "Exterminate Ray",
+        "Image": "https://gcdatabase.com/images/characters/demon_chandler/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attck",
+        "Bronze": "Removes Buffs from one enemy and inflicts damage equal to 220% of Attack.",
+        "Silver": "Removes Buffs from one enemy and inflicts damage equal to 300% of Attack.",
+        "Gold": "Cancels Buffs and Stances on one enemy and inflicts damage equal to 400% of Attack."
+      },
+      "Skill 2": {
+        "Name": "Sweep Away",
+        "Image": "https://gcdatabase.com/images/characters/demon_chandler/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Pierce damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Pierce damage equal to 250% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Demon's Judgement",
+        "Image": "https://gcdatabase.com/images/characters/demon_chandler/ssrg_ult.png",
+        "Effect": "Cancels Buffs and Stances on one enemy, inflicts damage equal to 490% of Attack, then Stuns for 1 turn(s)."
+      }
     }
   },
   "Fairy": {

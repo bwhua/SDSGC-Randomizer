@@ -15,9 +15,8 @@ https://bwhua.github.io/SDSGC-Randomizer/#/
 ## Disclaimer
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
-## Latest Characters Added: 
-### Re: Zero Reinhard
-### Re: Zero Echidna
+## Latest Character(s) Added: 
+### Original Fradment Chandler
 
 ## FAQ
 - What if a character isn't showing up?
