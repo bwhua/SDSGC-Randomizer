@@ -8290,6 +8290,36 @@
         "Image": "https://gcdatabase.com/images/characters/echidna/ssrg_ult.png",
         "Effect": "Increases all allies' basic stats by 20%, Unknown race allies' damage dealt by 35% for 2 turn(s), inflicts damage equal to 400% of Attack on all enemies."
       }
+    },
+    "Last Philosopher Merlin": {
+      "Color": "Green",
+      "Image": "https://gcdatabase.com/images/characters/infinity_mage_merlin/ssrg_portrait.png",
+      "Rarity": "SSR",
+      "Skill 1": {
+        "Name": "Double Impact",
+        "Image": "https://gcdatabase.com/images/characters/infinity_mage_merlin/ssrg_1.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 120% of Attack on all enemies. Depletes 1 Ultimate Move Gauge orb(s) at the end of the enemies' turn for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 120% of Attack on all enemies. Depletes 2 Ultimate Move Gauge orb(s) at the end of the enemies' turn for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 180% of Attack on all enemies. Depletes 2 Ultimate Move Gauge orb(s) at the end of the enemies' turn for 2 turn(s)."
+      },
+      "Skill 2": {
+        "Name": "Fusion Reactor",
+        "Image": "https://gcdatabase.com/images/characters/infinity_mage_merlin/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Element Explosion damage equal to 130% on all enemies.",
+        "Silver": "Inflicts Element Explosion damage equal to 195% on all enemies.",
+        "Gold": "Inflicts Element Explosion damage equal to 325% on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Max Infinity",
+        "Image": "https://gcdatabase.com/images/characters/infinity_mage_merlin/ssrg_ult.png",
+        "Effect": "Randomly applies X Element effect that do not overlap with current Element effect on all enemies and inflicts Element Explosion damage equal to X% on all enemies."
+      }
     }
   }
 }
