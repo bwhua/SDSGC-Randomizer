@@ -7160,6 +7160,111 @@
         "Image": "https://gcdatabase.com/images/characters/reinhard/ssrr_ult.png",
         "Effect": "Exclude the buff granted by Unique, grant another 1 of the following effects: increases the hero's damage by 50%, increases all stats by 25%, Evades, Debuff Immunity or Undying, inflicts damage equal to 20% of Max HP on all enemies."
       }
+    },
+    "Spooky Party Eastin": {
+      "Color": "Green",
+      "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrg_portrait.png",
+      "Rarity": "SSR",
+      "Unique": {
+        "Name": "Spooky Magic",
+        "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrg_passive.png",
+        "Effect": "Increases Human allies' basic stats by 7% for each enemy defeated in PVP. If a Human ally defeats an enemy during the allies' turn, removes 2 orbs from the ultimate Move Gauges of all enemies at the end of the turn."
+      },
+      "Skill 1": {
+        "Name": "Cannon Show",
+        "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Flood damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Flood damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Flood damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Magic Bat",
+        "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 150% of Attack on all enemies.",
+        "Silver": "Inflicts damage equal to 150% of Attack on all enemies and depletes 1 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 250% of Attack on all enemies and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Ultimate": {
+        "Name": "Queen's Amusement",
+        "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrg_ult.png",
+        "Effect": "Inflicts Flood damage equal to 560% of Attack on one enemy."
+      }
+    },
+    "Shield Hero Iwatani Naofumi": {
+      "Color": "Blue",
+      "Image": "https://gcdatabase.com/images/characters/naofumi/ssrb_portrait.png",
+      "Rarity": "SSR",
+      "Unique": {
+        "Name": "Unwavering Will",
+        "Image": "https://gcdatabase.com/images/characters/naofumi/ssrb_passive.png",
+        "Effect": "When the hero assumes a Stance, at the start of battle, increases all allies' basic stats by 30% of the hero's Defense. When the hero takes damage from enemy skills on enemies' turn, applies 1 Proof of Wrath on the hero, up to a maximum of 6. For every Proof of Wrath, increases the hero's all-target skill damage by 35%."
+      },
+      "Skill 1": {
+        "Name": "Shooting Star Shield",
+        "Image": "https://gcdatabase.com/images/characters/naofumi/ssrb_1.png",
+        "Bronze Type": "Stance",
+        "Silver Type": "Stance",
+        "Gold Type": "Stance",
+        "Bronze": "Assumes a Stance which Taunts enemies and increases Defense-related stats by 30% for 1 turn(s). Removes all Debuffs, and only 1 Debuff can be on the hero.",
+        "Silver": "Assumes a Stance which Taunts enemies and increases Defense-related stats by 50% for 2 turn(s). Removes all Debuffs, and only 1 Debuff can be on the hero.",
+        "Gold": "Assumes a Stance which Taunts enemies and increases Defense-related stats by 80% for 2 turn(s). Removes all Debuffs, and only 1 Debuff can be on the hero."
+      },
+      "Skill 2": {
+        "Name": "Dark Curse Burning",
+        "Image": "https://gcdatabase.com/images/characters/naofumi/ssrb_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 110% of Defense on all enemies. Applies Curse for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 165% of Defense on all enemies. Applies Curse for 2 turn(s).",
+        "Gold": "Inflicts damage equal to 275% of Defense on all enemies. Applies Curse for 3 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Iron Maiden",
+        "Effect": "Decreases all stats of one enemy by 5% for 2 turn(s), inflicts Wrath damage equal to 480% of Defense on the enemy.",
+        "Image": "https://gcdatabase.com/images/characters/naofumi/ssrb_ult.png"
+      }
+    },
+    "Hunting Hero Kazayama Kizuna": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/kizuna/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Big Catch!",
+        "Image": "https://gcdatabase.com/images/characters/kizuna/ssrr_passive.png",
+        "Effect": "In PVE, if the hero damages an enemy on ally's turn, ranks up all of the hero's cards and removes all Debuffs from allies."
+      },
+      "Skill 1": {
+        "Name": "Hook Up",
+        "Image": "https://gcdatabase.com/images/characters/kizuna/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Pierce damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Pierce damage equal to 250% of Attack on all enemies."
+      },
+      "Skill 2": {
+        "Name": "Sensitive Instinct",
+        "Image": "https://gcdatabase.com/images/characters/kizuna/ssrr_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "Increases the basic stats of one ally by 20% for 2 turn(s).",
+        "Silver": "Increases the basic stats of all allies by 20% for 2 turn(s).",
+        "Gold": "Remove Debuffs from all allies. Increases basic stats by 30% and grants Debuff Immunity for 3 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Hunting Master",
+        "Image": "https://gcdatabase.com/images/characters/kizuna/ssrr_ult.png",
+        "Effect": "Increases all allies' damage by 7% for 2 turn(s), and inflicts damage equal to 400% of Attack on all enemies."
+      }
     }
   },
   "Unknown": {
@@ -8330,6 +8435,77 @@
         "Name": "Max Infinity",
         "Image": "https://gcdatabase.com/images/characters/infinity_mage_merlin/ssrg_ult.png",
         "Effect": "Randomly applies X Element effect that do not overlap with current Element effect on all enemies and inflicts Element Explosion damage equal to X% on all enemies."
+      }
+    },
+    "Queen's Successor Filo": {
+      "Color": "Green",
+      "Image": "https://gcdatabase.com/images/characters/filo/ssrg_portrait.png",
+      "Rarity": "SSR",
+      "Unique": {
+        "Name": "Master is the best!",
+        "Image": "https://gcdatabase.com/images/characters/filo/ssrg_passive.png",
+        "Effect": "When ally damages enemy with a skill, for every Debuff on the enemy, ignores 8% of Crit Resistance and Crit Defense. If there are 5 or more Debuffs on the enemy, increases the hero's single-target attack skill damage (excluding Ultimate Move) by 60%. (Limit 5 times for Crit Resistance and Crit Defense debuff)"
+      },
+      "Skill 1": {
+        "Name": "Dryfa Tornado",
+        "Image": "https://gcdatabase.com/images/characters/filo/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Weak Point damage equal to 90% of Attack on all enemies.",
+        "Silver": "Inflicts Weak Point damage equal to 120% of Attack on all enemies.",
+        "Gold": "Inflicts Weak Point damage equal to 185% of Attack on all enemies."
+      },
+      "Skill 2": {
+        "Name": "Spiral Strike",
+        "Image": "https://gcdatabase.com/images/characters/filo/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 200% of Attack on one enemy.",
+        "Silver": "Cancels Stances on one enemy and inflicts damage equal to 200% of Attack, then Stuns for 1 turn(s).",
+        "Gold": "Cancels Stances on one enemy and inflicts damage equal to 250% of Attack, then Stuns for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Filolial Smash",
+        "Image": "https://gcdatabase.com/images/characters/filo/ssrg_ult.png",
+        "Effect": "Decreases all enemies' HP-related stats by 5% for 2 turn(s) and inflicts damage equal to 630% of Attack on one enemy."
+      }
+    },
+    "Naofumi's Sword Raphtalia": {
+      "Color": "Blue",
+      "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_portrait.png",
+      "Rarity": "SSR",
+      "Unique": {
+        "Name": "Demi-human's Memories",
+        "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_passive.png",
+        "Effect": "At the start of the battle, increases all allies' Max HP by 300% of the hero's Defense. If all allies participating in battle are of the same attribute, reduces allies' damage taken by 30%."
+      },
+      "Skill 1": {
+        "Name": "Eight Trigrams Blade of Destiny",
+        "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Flood damage equal to 200% of Defense on one enemy.",
+        "Silver": "Inflicts Flood damage equal to 300% of Defense on one enemy.",
+        "Gold": "Inflicts Flood damage equal to 500% of Defense on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Illusion Sword",
+        "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_ult.png",
+        "Rarity": "SSR",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Sever damage equal to 120% of Defense on one enemy.",
+        "Silver": "Inflicts Sever damage equal to 180% of Defense on one enemy.",
+        "Gold": "Inflicts Sever damage equal to 300% of Defense on one enemy."
+      },
+      "Ultimate": {
+        "Name": "Ying Yang Sword",
+        "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_ult.png",
+        "Effect": "Increases basic stats by 50% for 3 turns, inflicts damage equal to 320% of Defense on all enemies."
       }
     }
   }

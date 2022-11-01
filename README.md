@@ -16,7 +16,11 @@ https://bwhua.github.io/SDSGC-Randomizer/#/
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
 ## Latest Character(s) Added: 
-### Last Philosopher Merlin
+### Spooky Party Eastin
+### Queen's Succesor Filo
+### Shield Hero Iwatani Naofumi
+### Naofumi's Sword Raphtalia
+### Hunting Hero Kazayama Kizuna
 
 ## FAQ
 - What if a character isn't showing up?
