@@ -1299,7 +1299,7 @@
         "Effect": "Inflicts Weak Point damage equal to 210% of Attack on all enemies."
       }
     },
-    "Original Fragment Chandler": {
+    "Origin Fragment Chandler": {
       "Color": "Green",
       "Rarity": "SSR",
       "Image": "https://gcdatabase.com/images/characters/demon_chandler/ssrg_portrait.png",
@@ -1332,6 +1332,40 @@
         "Name": "Demon's Judgement",
         "Image": "https://gcdatabase.com/images/characters/demon_chandler/ssrg_ult.png",
         "Effect": "Cancels Buffs and Stances on one enemy, inflicts damage equal to 490% of Attack, then Stuns for 1 turn(s)."
+      }
+    },
+    "Origin Fragment Cusack": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/demon_cusack/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Demon's Helper",
+        "Image": "https://gcdatabase.com/images/characters/demon_cusack/ssrb_passive.png",
+        "Effect": "Decreases Crit Chance by 20% and Crit Damage by 30% for all enemies on the battlefield, then increases Demon allies' Attack-related stats by 4% for each Demon ally in battle."
+      },
+      "Skill 1": {
+        "Name": "Triple Strike",
+        "Image": "https://gcdatabase.com/images/characters/demon_cusack/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Pierce damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Pierce damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Demonic Eye",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 140% of Attack on all enemies. Decreases Crit Chance by 30% for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 210% of Attack on all enemies. Decreases Crit Chance by 50% for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 350% of Attack on all enemies. Decreases Crit Chance by 100% for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Evil Onslaught",
+        "Image": "https://gcdatabase.com/images/characters/demon_cusack/ssrb_ult.png",
+        "Effect": "Inflicts Weak Point damage equal to 385% of Attack on one enemy."
       }
     }
   },
@@ -2794,7 +2828,7 @@
       "Skill 1":{
         "Name": "Slide Serve",
         "Image": "https://rerollcdn.com/SDSGC/skills/skill_60_1.png",
-        "Bronze Type": "Attak",
+        "Bronze Type": "Attack",
         "Silver Type": "Debuff",
         "Gold Type": "Debuff",
         "Bronze": "Inflicts damage equal to 220% of Attack on one enemy.",
