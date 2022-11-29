@@ -1313,7 +1313,7 @@
         "Image": "https://gcdatabase.com/images/characters/demon_chandler/ssrg_1.png",
         "Bronze Type": "Attack",
         "Silver Type": "Attack",
-        "Gold Type": "Attck",
+        "Gold Type": "Attack",
         "Bronze": "Removes Buffs from one enemy and inflicts damage equal to 220% of Attack.",
         "Silver": "Removes Buffs from one enemy and inflicts damage equal to 300% of Attack.",
         "Gold": "Cancels Buffs and Stances on one enemy and inflicts damage equal to 400% of Attack."
@@ -6700,7 +6700,7 @@
       "Unique": {
         "Name": "UV Block",
         "Image": "https://rerollcdn.com/SDSGC/skills/passive_186_4.png",
-        "Effect": "Every time the hero's Ultimate Move gauge is completely filled, allies gain an 1 time Evasion to enemy's Attcks and Debuffs for 1 turn(s). (Excludes Death Match)"
+        "Effect": "Every time the hero's Ultimate Move gauge is completely filled, allies gain an 1 time Evasion to enemy's Attacks and Debuffs for 1 turn(s). (Excludes Death Match)"
       },
       "Skill 1": {
         "Name": "Insane Surfer",
@@ -7298,6 +7298,76 @@
         "Name": "Hunting Master",
         "Image": "https://gcdatabase.com/images/characters/kizuna/ssrr_ult.png",
         "Effect": "Increases all allies' damage by 7% for 2 turn(s), and inflicts damage equal to 400% of Attack on all enemies."
+      }
+    },
+    "Knight of the Holy War Griamore": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/griamore/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Firm Will",
+        "Image": "https://gcdatabase.com/images/characters/griamore/ssrb_passive.png",
+        "Effect": "For every buff on the hero, increses the hero's Defense-related stats by 20%."
+      },
+      "Skill 1": {
+        "Name": "Shell Blast",
+        "Image": "https://gcdatabase.com/images/characters/griamore/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Detonate damage equal to 160% of Defense on one enemy.",
+        "Silver": "Inflicts Detonate damage equal to 240% of Defense on one enemy.",
+        "Gold": "Inflicts Detonate damage equal to 400% of Defense on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Battle Shout",
+        "Image": "https://gcdatabase.com/images/characters/griamore/ssrb_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "",
+        "Bronze": "Increases basic stats by 20% for 2 turn(s).",
+        "Silver": "Increases basic stats by 30% for 2 turn(s) and gains Evasion for 1 turn(s).",
+        "Gold": "Increases basic stats by 50% for 3 turn(s) and gains Evasion for 1 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Wailing Wall",
+        "Image": "https://gcdatabase.com/images/characters/griamore/ssrb_ult.webp",
+        "Effect": "Taunts enemies and increases Defense-related stats by 280%/320% for 4/5 turn(s)."
+      }
+    },
+    "Flame of Life Escanor": {
+      "Color": "Light",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/ultimate_escanor/ssrl_portrait.png",
+      "Unique": {
+        "Name": "Final Flame",
+        "Image": "https://gcdatabase.com/images/characters/ultimate_escanor/ssrl_passive.png",
+        "Effect": "Applies Sacred Flame on the hero at the start of battle. Increases damage by 15% up to 4 times after using a skill. The hero's stats cannot be decreased. When the hero takes fatal damage, increases Attack-related stats by 30%. Sacred Flame: For 5 turns, increases all stats by 4% every turn."
+      },
+      "Skill 1": {
+        "Name": "Burning Spear",
+        "Image": "https://gcdatabase.com/images/characters/ultimate_escanor/ssrl_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Scorch damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Scorch damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Scorch damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Crazy Prominence",
+        "Image": "https://gcdatabase.com/images/characters/ultimate_escanor/ssrl_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pressure damage equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts Pressure damage equal to 180% of Attack on all enemies.",
+        "Gold": "Inflicts Pressure damage equal to 300% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Final Prominence",
+        "Image": "https://gcdatabase.com/images/characters/ultimate_escanor/ssrl_ult.png",
+        "Effect": "Inflicts Death by Burning damage equal to X% of Attack on all enemies. When the hero dies, removes all effects, and resets Ultimate Move Gauge to 0, applies X Final Flame. (All other reviving Unique and skills will not work)"
       }
     }
   },
