@@ -16,8 +16,9 @@ https://bwhua.github.io/SDSGC-Randomizer/#/
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
 ## Latest Character(s) Added: 
-### Knight of the Holy War Griamore
-### Flame of Life Escanor
+### White Snow Present Valenti
+### Gift of Happiness Liz
+### Cursed Bond Meliodas
 
 ## FAQ
 - What if a character isn't showing up?

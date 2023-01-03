@@ -1367,6 +1367,41 @@
         "Image": "https://gcdatabase.com/images/characters/demon_cusack/ssrb_ult.png",
         "Effect": "Inflicts Weak Point damage equal to 385% of Attack on one enemy."
       }
+    },
+    "Cursed Bond Meliodas": {
+      "Color": "Darkness",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/purgatory_meliodas/ssrd_portrait.png",
+      "Unique": {
+        "Name": "Curse of Purgatory",
+        "Image": "https://gcdatabase.com/images/characters/purgatory_meliodas/ssrd_passive.png",
+        "Effect": "At the start of the battle, apply 3 Bonds of Purgatory on the hero, when the hero takes damage during the enemy's turn, or when the hero uses a skill, remove 1 Bond of Purgatory. When all stacks are removed, gain True Magic. True Magic is removed after using a skill, and then gain 3 Bond of Purgatory again afterwards. In addition, applies an effect that depletes Ultimate Move Gauge by 1 for 2 turns on enemies who did not use a skill. When attacking enemies assuming a stance or with a debuff, increases the hero's damage by 40%."
+      },
+      "Skill 1": {
+        "Name": "Pierce and Strike",
+        "Image": "https://gcdatabase.com/images/characters/purgatory_meliodas/ssrd_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Frenzy damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Frenzy damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Frenzy damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Chain Slash",
+        "Image": "https://gcdatabase.com/images/characters/purgatory_meliodas/ssrd_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Slash damage equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts Slash damage equal to 180% of Attack on all enemies.",
+        "Gold": "Inflicts Slash damage equal to 300% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Trillion Dark",
+        "Image": "https://gcdatabase.com/images/characters/purgatory_meliodas/ssrd_ult.png",
+        "Effect": "Inflicts Magic Explosion damage equal to 500% of Attack on all enemies and apply Damage Suppression on the hero for 1 turn."
+      }
     }
   },
   "Fairy": {
@@ -3265,7 +3300,7 @@
       "Ultimate": {
         "Name": "Opening Greeting",
         "Image": "https://gcdatabase.com/images/characters/margaret_ludociel/ssrb_ult.png",
-        "Effect": "Inflicts Sever damage equal to 630% of Attack on one enemy. At 6/6: Blocks all skill effects including those of Ultimate Moves and decreases Ultiamte Move damage by 30% for 2 turn(s)."
+        "Effect": "Inflicts Sever damage equal to 630% of Attack on one enemy. At 6/6: Blocks all skill effects including those of Ultimate Moves and decreases Ultimate Move damage by 30% for 2 turn(s)."
       }
     },
     "Advent of Tornado Sariel": {
@@ -7369,7 +7404,77 @@
         "Image": "https://gcdatabase.com/images/characters/ultimate_escanor/ssrl_ult.png",
         "Effect": "Inflicts Death by Burning damage equal to X% of Attack on all enemies. When the hero dies, removes all effects, and resets Ultimate Move Gauge to 0, applies X Final Flame. (All other reviving Unique and skills will not work)"
       }
-    }
+    },
+    "White Snow Present Valenti": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/valenti_of_obsession/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Find Opening",
+        "Image": "https://gcdatabase.com/images/characters/valenti_of_obsession/ssrr_passive.png",
+        "Effect": "Decreases Crit Damage of enemies on the battlefield by 75% of the hero's Crit Defense."
+      },
+      "Skill 1": {
+        "Name": "Snowball Impact",
+        "Image": "https://gcdatabase.com/images/characters/valenti_of_obsession/ssrr_1.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 220% of Attack on one enemy.",
+        "Silver": "Inflicts damage equal to 220% of Attack on one enemy and Freezes for 1 turn(s). When the Freeze is removed by using Skills, Ultimate Moves or after turns have passed, inflict damage equal to 20% of the remaining HP.",
+        "Gold": "Inflicts damage equal to 360% of Attack on one enemy and Freezes for 2 turn(s). When the Freeze is removed by using Skills, Ultimate Moves or after turns have passed, inflict damage equal to 40% of the remaining HP."
+      },
+      "Skill 2": {
+        "Name": "Gift Shower",
+        "Image": "https://gcdatabase.com/images/characters/valenti_of_obsession/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts damage equal to 120% of Attack on all enemies. Disables Attack Skills for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 180% of Attack on all enemies. Disables Attack Skills for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Event Horizon",
+        "Image": "https://gcdatabase.com/images/characters/valenti_of_obsession/ssrr_ult.png",
+        "Effect": "Increases damage dealt by 50% and decreases damage taken by 50% for 3 turn(s). Inflicts damage equal to 350% of Attack on all enemy."
+      }
+    },
+    "Gift of Happiness Liz": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/liz/ssrb_portrait.png",
+      "Unique": {
+        "Name": "I'm Sure You'll Like It",
+        "Image": "https://gcdatabase.com/images/characters/liz/ssrb_passive.png",
+        "Effect": "Increases basic stats of allies whose Crit Defense is 100% or higher by 20% at the start of the battle."
+      },
+      "Skill 1": {
+        "Name": "Bundle of Gifts",
+        "Image": "https://gcdatabase.com/images/characters/liz/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 200% of Attack on one enemy.",
+        "Silver": "Cancels Stances on one enemy and inflicts damage equal to 200% of Attack, then Stuns for 1 turn(s).",
+        "Gold": "Cancels Stances on one enemy and inflicts damage equal to 250% of Attack, then Stuns for 2 turn(s)."
+      },
+      "Skill 2": {
+        "Name": "Tree Strike",
+        "Image": "https://gcdatabase.com/images/characters/liz/ssrb_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Rupture damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Rupture damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Rupture damage equal to 250% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Last Attack",
+        "Image": "https://gcdatabase.com/images/characters/liz/ssrb_ult.webp",
+        "Effect": "Inflicts Shatter damage equal to 630% of Attack on one enemy."
+      }
+    } 
   },
   "Unknown": {
     "Re:Zero Beatrice": {
