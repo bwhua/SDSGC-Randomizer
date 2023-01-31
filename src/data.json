@@ -7474,7 +7474,42 @@
         "Image": "https://gcdatabase.com/images/characters/liz/ssrb_ult.webp",
         "Effect": "Inflicts Shatter damage equal to 630% of Attack on one enemy."
       }
-    } 
+    },
+    "Full Moon Shadow Mono": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/ironblood_mono/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Shadow Assault",
+        "Image": "https://gcdatabase.com/images/characters/ironblood_mono/ssrb_passive.png",
+        "Effect": "For every <The Seven Catastrophes> ally on the battlefield in PVP, increases Basic Stats of <The Seven Catastrophes> allies by 6%. At the start of the battle, increases the hero's damage dealt by the hero's Crit Chance."
+      },
+      "Skill 1": {
+        "Name": "Slash Master",
+        "Image": "https://gcdatabase.com/images/characters/ironblood_mono/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Weak Point damage equal to 90% of Attack on all enemies.",
+        "Silver": "Inflicts Weak Point damage equal to 120% of Attack on all enemies.",
+        "Gold": "Inflicts Weak Point damage equal to 185% of Attack on all enemies."
+      },
+      "Skill 2": {
+        "Name": "All Clear",
+        "Image": "https://gcdatabase.com/images/characters/ironblood_mono/ssrb_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "Remove Debuffs from all allies.",
+        "Silver": "Remove Debuffs from all allies. Increases Crit Chance by 30% and Crit Damage by 50% for 2 turn(s).",
+        "Gold": "Remove Debuffs from all allies. Increases Crit Chance by 50% and Crit Damage by 80% for 3 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Full Ejection",
+        "Image": "https://gcdatabase.com/images/characters/ironblood_mono/ssrb_ult.png",
+        "Effect": "Inflicts Secret Technique damage equal to 300% of Attack on all enemies and deals damage with attribute advantage regardless of attribute."
+      }
+    }
   },
   "Unknown": {
     "Re:Zero Beatrice": {
@@ -8703,7 +8738,6 @@
       "Skill 2": {
         "Name": "Illusion Sword",
         "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_ult.png",
-        "Rarity": "SSR",
         "Bronze Type": "Attack",
         "Silver Type": "Attack",
         "Gold Type": "Attack",
@@ -8715,6 +8749,41 @@
         "Name": "Ying Yang Sword",
         "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_ult.png",
         "Effect": "Increases basic stats by 50% for 3 turns, inflicts damage equal to 320% of Defense on all enemies."
+      }
+    },
+    "Enchanted Queen Freya": {
+      "Color": "Red",
+      "Image": "https://gcdatabase.com/images/characters/freya/ssrr_portrait.png",
+      "Rarity": "SSR",
+      "Unique": {
+        "Name": "Kneel Before Me",
+        "Image": "https://gcdatabase.com/images/characters/freya/ssrr_passive.png",
+        "Effect": "For every <Ragnarok> ally on the battlefield, increases the hero's Attack-related stats by 7%. For every Debuff on the enemy, increases all allies' Pierce Rate by 4% up to 5 times."
+      },
+      "Skill 1": {
+        "Name": "Elegance Leopard",
+        "Image": "https://gcdatabase.com/images/characters/freya/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Flood damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Flood damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Flood damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Fascination Chain",
+        "Image": "https://gcdatabase.com/images/characters/freya/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Pierce damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Pierce damage equal to 250% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Aesthetic Overflow",
+        "Image": "https://gcdatabase.com/images/characters/freya/ssrr_ult.png",
+        "Effect": "Inflicts Wave damage equal to 725% of attack on all enemies. Gains Abyss effect for 2 turns."
       }
     }
   }
