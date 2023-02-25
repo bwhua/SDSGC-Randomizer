@@ -2126,6 +2126,41 @@
         "Image": "https://gcdatabase.com/images/characters/golden_wings_elaine/ssrb_ult.webp",
         "Effect": "Inflicts damage equal to 420% of Attack on all enemies. Releases 100% of any DOT damage."
       }
+    },
+    "Sweet Jelly King": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/small_winged_king/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Will you take this?",
+        "Image": "https://gcdatabase.com/images/characters/small_winged_king/ssrg_passive.png",
+        "Effect": "For every Fairy ally on the battlefield, increases the hero's Attack-related stats by 10% and damage dealt by 10%. For each applicable ally, increases those allies' basic stats by 8%. Increases the hero's damage by 30% when attacking Debuffed enemies. Applicable allies: [The Seven Deadly Sins] with the Strength, HP or Speed Attribute"
+      },
+      "Skill 11": {
+        "Name": "Valentine's Gift",
+        "Image": "https://gcdatabase.com/images/characters/small_winged_king/ssrg_1.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 150% of Attack on one enemy. Poisons for 3 turn(s).",
+        "Silver": "Inflicts damage equal to 225% of Attack on one enemy. Poisons for 3 turn(s).",
+        "Gold": "Inflicts damage equal to 375% of Attack on one enemy. Poisons for 3 turn(s)."
+      },
+      "Skill 2": {
+        "Name": "Rolling Rolling Macaroons",
+        "Image": "https://gcdatabase.com/images/characters/small_winged_king/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Weak Point damage equal to 90% of Attack on all enemies.",
+        "Silver": "Inflicts Weak Point damage equal to 120% of Attack on all enemies.",
+        "Gold": "Inflicts Weak Point damage equal to 185% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Tyrant Tempest",
+        "Image": "https://gcdatabase.com/images/characters/small_winged_king/ssrg_ult.webp",
+        "Effect": "Inflicts damage equal to 300% of Attack on all enemies. Gains Abyss effect and takes 50% less damage for 2 turn(s)."
+      }
     }
   },
   "Giant": {
