@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SDSGC-Randomizer/static/css/main.2a558d11.chunk.css",
-    "main.js": "/SDSGC-Randomizer/static/js/main.2ecbbe43.chunk.js",
-    "main.js.map": "/SDSGC-Randomizer/static/js/main.2ecbbe43.chunk.js.map",
+    "main.js": "/SDSGC-Randomizer/static/js/main.5b6282d6.chunk.js",
+    "main.js.map": "/SDSGC-Randomizer/static/js/main.5b6282d6.chunk.js.map",
     "runtime-main.js": "/SDSGC-Randomizer/static/js/runtime-main.52331e59.js",
     "runtime-main.js.map": "/SDSGC-Randomizer/static/js/runtime-main.52331e59.js.map",
     "static/js/2.9fa59f39.chunk.js": "/SDSGC-Randomizer/static/js/2.9fa59f39.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.52331e59.js",
     "static/js/2.9fa59f39.chunk.js",
     "static/css/main.2a558d11.chunk.css",
-    "static/js/main.2ecbbe43.chunk.js"
+    "static/js/main.5b6282d6.chunk.js"
   ]
 }
