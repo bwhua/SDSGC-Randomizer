@@ -3486,6 +3486,41 @@
         "Image": "https://gcdatabase.com/images/characters/elizabeth_of_Eternal%20Rebirth/ssrl_ult.png",
         "Effect": "Inflicts damage equal to 30% of the hero's Max HP on all enemies, apply Revive on allies for 1 turn(s)."
       }
+    },
+    "The Four Archangels Mael": {
+      "Color": "Light",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/mael/ssrl_portrait.png",
+      "Unique": {
+        "Name": "Judgement of Light",
+        "Image": "https://gcdatabase.com/images/characters/mael/ssrl_passive.png",
+        "Effect": "For every Goddess race ally participating in the battle, increases all stats of the hero by 7%, and damage dealt by 10%. If all of the participating allies are of Goddess race, applies Brilliance of the Sun on all allies."
+      },
+      "Skill 1": {
+        "Name": "Sun Cutter",
+        "Image": "https://gcdatabase.com/images/characters/mael/ssrl_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Conflagration damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Conflagration damage equal to 400% of Attack on one enemy.",
+        "Gold": "Inflicts Conflagration damage equal to 2500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Solar Ray",
+        "Image": "https://gcdatabase.com/images/characters/mael/ssrl_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Spike damage equal to 100% of Attack on all enemies. Applies 1 Mark of Black Dot for 2 turn(s).",
+        "Silver": "Inflicts Spike damage equal to 150% of Attack on all enemies. Applies 1 Mark of Black Dot for 2 turn(s).",
+        "Gold": "Inflicts Spike damage equal to 250% of Attack on all enemies. Applies 2 Mark of Black Dot for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Rising Sun",
+        "Effect": "Cancels Stance from all enemies, additionally applies 3 Mark of Black Dots and inflicts Black Dot Burst damage equal to 500% of of Attack on all enemies.",
+        "Image": "https://gcdatabase.com/images/characters/mael/ssrl_ult.png"
+      }
     }
   },
   "Human": {

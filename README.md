@@ -16,7 +16,9 @@ https://bwhua.github.io/SDSGC-Randomizer/#/
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
 ## Latest Character(s) Added: 
-### Sweet Jelly King
+## The Four Archangels Mael
+
+## Known issue: Not all festival and collab characters get filtered out.
 
 ## FAQ
 - What if a character isn't showing up?
