@@ -1117,6 +1117,7 @@
     "Traitor Meliodas": {
       "Color": "Darkness",
       "Rarity": "SSR",
+      "Festival": true,
       "Image": "https://gcdatabase.com/images/characters/traitor_meliodas/ssrd_portrait.png",
       "Unique": {
         "Name": "Offense-Defense",
@@ -1232,6 +1233,7 @@
     "Twisted Darkness Estarossa": {
       "Color": "Blue",
       "Rarity": "SSR",
+      "Festival": true,
       "Image": "https://gcdatabase.com/images/characters/berserk_estarossa/ssrb_portrait.png",
       "Unique": {
         "Name": "Berserking Darkness",
@@ -1368,9 +1370,10 @@
         "Effect": "Inflicts Weak Point damage equal to 385% of Attack on one enemy."
       }
     },
-    "Cursed Bond Meliodas": {
+    "Cursed Shackles Meliodas": {
       "Color": "Darkness",
       "Rarity": "SSR",
+      "Festival": true,
       "Image": "https://gcdatabase.com/images/characters/purgatory_meliodas/ssrd_portrait.png",
       "Unique": {
         "Name": "Curse of Purgatory",
@@ -2060,6 +2063,7 @@
     "Protector King Harlequin": {
       "Color": "Blue",
       "Rarity": "SSR",
+      "Festival": true,
       "Image": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_portrait.png",
       "Unique": {
         "Name": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_passive.png",
@@ -3490,6 +3494,7 @@
     "The Four Archangels Mael": {
       "Color": "Light",
       "Rarity": "SSR",
+      "Festival": true,
       "Image": "https://gcdatabase.com/images/characters/mael/ssrl_portrait.png",
       "Unique": {
         "Name": "Judgement of Light",
@@ -7268,6 +7273,7 @@
     "Re:Zero Reinhard": {
       "Color": "Green",
       "Rarity": "SSR",
+      "Collab": "Re:Zero",
       "Image": "https://gcdatabase.com/images/characters/reinhard/ssrr_portrait.png",
       "Unique": {
         "Name": "Knight's Passion",
@@ -7339,6 +7345,7 @@
       "Color": "Blue",
       "Image": "https://gcdatabase.com/images/characters/naofumi/ssrb_portrait.png",
       "Rarity": "SSR",
+      "Collab": "Shield Hero",
       "Unique": {
         "Name": "Unwavering Will",
         "Image": "https://gcdatabase.com/images/characters/naofumi/ssrb_passive.png",
@@ -7373,6 +7380,7 @@
     "Hunting Hero Kazayama Kizuna": {
       "Color": "Red",
       "Rarity": "SSR",
+      "Collab": "Shield Hero",
       "Image": "https://gcdatabase.com/images/characters/kizuna/ssrr_portrait.png",
       "Unique": {
         "Name": "Big Catch!",
@@ -7440,9 +7448,10 @@
         "Effect": "Taunts enemies and increases Defense-related stats by 280%/320% for 4/5 turn(s)."
       }
     },
-    "Flame of Life Escanor": {
+    "Fire of Life Escanor": {
       "Color": "Light",
       "Rarity": "SSR",
+      "Festival": true,
       "Image": "https://gcdatabase.com/images/characters/ultimate_escanor/ssrl_portrait.png",
       "Unique": {
         "Name": "Final Flame",
@@ -8426,7 +8435,7 @@
         "Effect": "Decreases HP-related stats of all enemies by 30% for 2 turns and inflicts damage equal to 400% of Attack on one enemy."
       }
     },
-    "Hi Jack! Gowther": {
+    "Restored Emotions Gowther": {
       "Color": "Green",
       "Rarity": "SSR",
       "Festival": true,
@@ -8683,6 +8692,7 @@
       "Color": "Green",
       "Image": "https://gcdatabase.com/images/characters/echidna/ssrg_portrait.png",
       "Rarity": "SSR",
+      "Collab": "Re:Zero",
       "Unique": {
         "Name": "Boundless Greed",
         "Image": "https://gcdatabase.com/images/characters/echidna/ssrg_passive.png",
@@ -8720,6 +8730,7 @@
       "Color": "Green",
       "Image": "https://gcdatabase.com/images/characters/infinity_mage_merlin/ssrg_portrait.png",
       "Rarity": "SSR",
+      "Festival": true,
       "Unique": {
         "Name": "Infinite Elements",
         "Image": "https://gcdatabase.com/images/characters/infinity_mage_merlin/ssrg_passive.png",
@@ -8755,6 +8766,7 @@
       "Color": "Green",
       "Image": "https://gcdatabase.com/images/characters/filo/ssrg_portrait.png",
       "Rarity": "SSR",
+      "Collab": "Shield Hero",
       "Unique": {
         "Name": "Master is the best!",
         "Image": "https://gcdatabase.com/images/characters/filo/ssrg_passive.png",
@@ -8790,6 +8802,7 @@
       "Color": "Blue",
       "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_portrait.png",
       "Rarity": "SSR",
+      "Collab": "Shield Hero",
       "Unique": {
         "Name": "Demi-human's Memories",
         "Image": "https://gcdatabase.com/images/characters/raphtalia/ssrb_passive.png",

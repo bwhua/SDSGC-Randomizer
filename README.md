@@ -18,8 +18,6 @@ https://bwhua.github.io/SDSGC-Randomizer/#/
 ## Latest Character(s) Added: 
 ## The Four Archangels Mael
 
-## Known issue: Not all festival and collab characters get filtered out.
-
 ## FAQ
 - What if a character isn't showing up?
   - There are two possibilities:
