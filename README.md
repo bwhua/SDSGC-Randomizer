@@ -16,7 +16,14 @@ https://bwhua.github.io/SDSGC-Randomizer/#/
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
 ## Latest Character(s) Added: 
-## The Four Archangels Mael
+### Divine Proxy Ludociel
+### Pride of Valhalla Megellda
+### Vengeful Saw Blade Roxy
+### Spring Fantasy Elizabeth
+### Otherworld Reincarnator Rudeus Greyrat
+### Red Mad Dog Eris Greyrat
+### Water King Class Magician Roxy Migurdia
+### Sword King Ghislaine Dedoldia
 
 ## FAQ
 - What if a character isn't showing up?

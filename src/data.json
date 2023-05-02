@@ -3526,6 +3526,76 @@
         "Effect": "Cancels Stance from all enemies, additionally applies 3 Mark of Black Dots and inflicts Black Dot Burst damage equal to 500% of of Attack on all enemies.",
         "Image": "https://gcdatabase.com/images/characters/mael/ssrl_ult.png"
       }
+    },
+    "Divine Proxy Ludociel": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/ludociel/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Blessing of Goddess",
+        "Image": "https://gcdatabase.com/images/characters/ludociel/ssrg_passive.png",
+        "Effect": "Increases Goddess allies' Attack-related Stats by 7%. Increases the hero's damage dealt by 15% for each Goddess ally on the battlefield."
+      },
+      "Skill 1": {
+        "Name": "Light of Judge",
+        "Image": "https://gcdatabase.com/images/characters/ludociel/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Pierce damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Pierce damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Shining Redemption",
+        "Image": "https://gcdatabase.com/images/characters/ludociel/ssrg_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "Creates a barrier around all allies equal to 150% of Attack for 1 turn(s). Takes damage only from basic stats when attacked. (Excludes Rupture)",
+        "Silver": "Creates a barrier around all allies equal to 200% of Attack for 1 turn(s). Takes damage only from basic stats when attacked. (Excludes Rupture)",
+        "Gold": "Creates a barrier around all allies equal to 300% of Attack for 2 turn(s). Takes damage only from basic stats when attacked. (Excludes Rupture)"
+      },
+      "Ultimate": {
+        "Name": "Goddess Holy Ark",
+        "Effect": "Inflicts damage equal to 350% of Attack on all enemies and creates a barrier equal to 20% of the damage.",
+        "Image": "https://gcdatabase.com/images/characters/ludociel/ssrg_ult.webp"
+      }
+    },
+    "Spring Fantasy Elizabeth": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/goddess_elizabeth/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Spring Fantasy Elizabeth",
+        "Image": "https://gcdatabase.com/images/characters/goddess_elizabeth/ssrr_passive.png",
+        "Effect": "Every time the hero uses a skill in PvE, increases basic stats of allies by 5% up to 2 times and for 2 turns, increases Attack-related stats of allies by 30% for 2 turns. "
+      },
+      "Skill 1": {
+        "Name": "Bringing Spring",
+        "Image": "https://gcdatabase.com/images/characters/goddess_elizabeth/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Blowing Cherryblossom",
+        "Image": "https://gcdatabase.com/images/characters/goddess_elizabeth/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Pierce damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Pierce damage equal to 250% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Goddess Pattern",
+        "Effect": "Recovers HP of all allies equal to 30% of Max HP. Reflects 40% of damage taken over 2 turn(s), then heals for half of the damage reflected.",
+        "Image": "https://gcdatabase.com/images/characters/goddess_elizabeth/ssrr_ult.webp"
+      }
     }
   },
   "Human": {
@@ -7588,6 +7658,113 @@
         "Image": "https://gcdatabase.com/images/characters/ironblood_mono/ssrb_ult.png",
         "Effect": "Inflicts Secret Technique damage equal to 300% of Attack on all enemies and deals damage with attribute advantage regardless of attribute."
       }
+    },
+    "Vengeful Saw Blade Roxy": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/roxy_of_madness/ssrb_portrait.png",
+      "Unique": {
+        "Name": "I'll Chop You Up",
+        "Image": "https://gcdatabase.com/images/characters/roxy_of_madness/ssrb_passive.png",
+        "Effect": "https://gcdatabase.com/images/characters/roxy_of_madness/ssrb_1.png"
+      },
+      "Skill 1": {
+        "Name": "Crazy Blade",
+        "Image": "https://gcdatabase.com/images/characters/roxy_of_madness/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Flood damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Flood damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Flood damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Flame Grinder",
+        "Image": "https://gcdatabase.com/images/characters/roxy_of_madness/ssrb_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Spike damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Spike damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Spike damage equal to 250% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Horror Vengeance",
+        "Effect": "Inflicts Sever damage equal to 630% of Attack on one enemy.",
+        "Image": "https://gcdatabase.com/images/characters/roxy_of_madness/ssrb_ult.png"
+      }
+    },
+    "Otherworld Reincarnator Rudeus Grayrat":{
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Collab": "Jobless Reincarnation",
+      "Image": "https://gcdatabase.com/images/characters/rudeus/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Forseen Future",
+        "Image": "https://gcdatabase.com/images/characters/rudeus/ssrr_passive.png",
+        "Effect": "For every Human ally in battle, increases basic stats by 10%. Whenever a Human ally uses a skill, apply 1 Magic Sphere on the hero. Removes all Magic Spheres when the hero uses a single-target attack skill. If the hero has 5 Magic Spheres, increases Crit Chance by 50% and damage dealt is increased by additional 30%."
+      },
+      "Skill 1": {
+        "Name": "Stone Cannon",
+        "Image": "https://gcdatabase.com/images/characters/rudeus/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Flood damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Flood damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Flood damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Air Burst",
+        "Image": "https://gcdatabase.com/images/characters/rudeus/ssrr_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 110% of Attack on all enemies. Infects for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 180% of Attack on all enemies. Infects for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 280% of Attack on all enemies. Infects for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Flashover",
+        "Image": "https://gcdatabase.com/images/characters/rudeus/ssrr_ult.png",
+        "Effect": "Apply 1 Magic Sphere, and for every Magic Sphere, increases damage by 30% and inflicts damage equal to 350% attack on all enemies."
+      }
+    },
+    "Red Mad Dog Eris Greyrat": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Collab": "Jobless Reincarnation",
+      "Image": "https://gcdatabase.com/images/characters/eris/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Hidden Power",
+        "Effect": "For every applicable ally participating in PvE battle, increases applicable allies' Attack-related stats by 10%, and increases single-target attack damage by 15%. (※ Applicable ally: Strength Human)",
+        "Image": "https://gcdatabase.com/images/characters/eris/ssrr_passive.png"
+      },
+      "Skill 1": {
+        "Name": "Deft Strike",
+        "Image": "https://gcdatabase.com/images/characters/eris/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Sever damage equal to 160% of Attack on one enemy.",
+        "Silver": "Inflicts Sever damage equal to 270% of Attack on one enemy.",
+        "Gold": "Inflicts Sever damage equal to 450% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Swift Smash",
+        "Image": "https://gcdatabase.com/images/characters/eris/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 140% of Attack on all enemies.",
+        "Silver": "Removes Buffs from all enemies and inflicts damage equal to 140% of Attack.",
+        "Gold": "Cancels Buffs and Stances on all enemies and inflicts damage equal to 210% of Attack."
+      },
+      "Ultimate": {
+        "Name": "Offensive Dive",
+        "Effect": "Inflicts Flood damage equal to 560% of Attack on one enemy.",
+        "Image": "https://gcdatabase.com/images/characters/eris/ssrr_ult.png"
+      }
     }
   },
   "Unknown": {
@@ -8867,6 +9044,111 @@
         "Name": "Aesthetic Overflow",
         "Image": "https://gcdatabase.com/images/characters/freya/ssrr_ult.png",
         "Effect": "Inflicts Wave damage equal to 725% of attack on all enemies. Gains Abyss effect for 2 turns."
+      }
+    },
+    "Pride of Valhalla Megellda": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/megellda/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Trust Me",
+        "Image": "https://gcdatabase.com/images/characters/megellda/ssrr_passive.png",
+        "Effect": "Increases allies' HP-related stats by 6% up to of 30%, and fills 1 Ultimate Move Gauges every time the hero uses a skill in Demonic Beast Battle. Allies who have had Debuffs removed from the hero's skill use recover 20%their Max HP."
+      },
+      "Skill 1": {
+        "Name": "Falling Valkyrie",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Falling Valkyrie",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "Removes Debuffs from all allies.",
+        "Silver": "Apply 1 Solidify on all allies. If there are Debuffs, they are removed and 1 additional Solidify effect is applied.",
+        "Gold": "Apply 1 Solidify on one ally. If there are Debuffs, they are removed and an additional Solidify effect is applied for every Debuff removed."
+      },
+      "Ultimate": {
+        "Name": "Blundering blow",
+        "Effect": "Inflicts Power Strike damage equal to 630% of Attack on one enemy.",
+        "Image": "https://gcdatabase.com/images/characters/megellda/ssrr_ult.png"
+      }
+    },
+    "Water King Class Magician Roxy Migurdia": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Collab": "Jobless Reincarnation",
+      "Image": "https://gcdatabase.com/images/characters/roxy_migurdia/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Special Dignity",
+        "Image": "https://gcdatabase.com/images/characters/roxy_migurdia/ssrg_passive.png",
+        "Effect": "https://gcdatabase.com/images/characters/roxy_migurdia/ssrg_passive.png"
+      },
+      "Skill 1": {
+        "Name": "Waterball",
+        "Image": "https://gcdatabase.com/images/characters/roxy_migurdia/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Icicle Break",
+        "Image": "https://gcdatabase.com/images/characters/roxy_migurdia/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Pierce damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Pierce damage equal to 250% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Cumulonimbus",
+        "Effect": "Decreases all stats except for basic stats by 30% for 2 turns and inflict damage equal to 450% of Attack to all enemies.",
+        "Image": "https://gcdatabase.com/images/characters/roxy_migurdia/ssrg_ult.png"
+      }
+    },
+    "Sword King Ghislaine Dedoldia": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Collab": "Jobless Reincarnation",
+      "Image": "https://gcdatabase.com/images/characters/ghislaine/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Sword King",
+        "Image": "https://gcdatabase.com/images/characters/ghislaine/ssrg_passive.png",
+        "Effect": "For every Unknown ally participating in PvP, increases the hero's basic stats by 7%. At the start of the battle, mark the enemy with the highest Combat Class. The marked enemy can only attack Ghislaine. When attacking the marked target, increases the hero's damage by 40% and when attacked by the marked target, decreases the enemy's Attack-related stats by 30%."
+      },
+      "Skill 1": {
+        "Name": "Nimble Slash",
+        "Image": "https://gcdatabase.com/images/characters/ghislaine/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Pierce damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Pierce damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Savage Movement",
+        "Image": "https://gcdatabase.com/images/characters/ghislaine/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Cancels Stances on one enemy and inflicts damage equal to 180% of Attack.",
+        "Silver": "Cancels Stances on one enemy and inflicts damage equal to 300% of Attack.",
+        "Gold": "Cancels Stances on one enemy and inflicts damage equal to 500% of Attack."
+      },
+      "Ultimate": {
+        "Name": "Sword of Light",
+        "Effect": "Inflicts Power Strike damage equal to 490% of Attack on all enemies.",
+        "Image": "https://gcdatabase.com/images/characters/ghislaine/ssrg_ult.png"
       }
     }
   }
